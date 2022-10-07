@@ -1,0 +1,13 @@
+﻿  team.cpp
+c:\users\catobleras\desktop\16_final-2016-05-26\16 final\16\team.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\catobleras\desktop\16_final-2016-05-26\16 final\16\team.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\catobleras\desktop\16_final-2016-05-26\16 final\16\team.cpp(321): warning C4018: '<': signed/unsigned mismatch
+  ball.cpp
+c:\users\catobleras\desktop\16_final-2016-05-26\16 final\16\ball.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\catobleras\desktop\16_final-2016-05-26\16 final\16\ball.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+c:\users\catobleras\desktop\16_final-2016-05-26\16 final\16\main.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\catobleras\desktop\16_final-2016-05-26\16 final\16\main.cpp(34): warning C4129: 'p': unrecognized character escape sequence
+  Game.cpp
+  Generating Code...
+  16.vcxproj -> C:\Users\catobleras\Desktop\16_final-2016-05-26\16 final\16\Debug\16.exe

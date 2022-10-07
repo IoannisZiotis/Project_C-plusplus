@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ball" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAAAACEAAAEAAAAIgEAgAAAAEAACAAAAAAA=</HashCode>
+      <FileName>ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="defender" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAACAAAAAQCAEAEAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>defender.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAQIBAAAAAAAiAAAAEAAAAAAAEAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="player" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhCAQAAAAASEAAAQAgAAAgCAAABAAAAHAAAAAIEAIQA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="striker" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAAAAAQIAAAAAAAAAAAAgEAAAAAAAAAAA=</HashCode>
+      <FileName>striker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="team" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAUAAImAUAggQQEAAAAAAIAQAGCBAQgSAAAAQCA=</HashCode>
+      <FileName>team.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

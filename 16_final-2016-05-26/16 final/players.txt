@@ -1,0 +1,16 @@
+tsoukalas|defender|10|1|1|1|3
+mitroglou|defender|5|1|4|1|5
+dellas|defender|3|3|1|3|5
+katsouranis|defender|15|3|4|3|7
+messi|striker|18|5|1|5|8
+ronaldo|striker|7|5|4|5|7
+puyol|striker|17|7|1|7|9
+mpifis|striker|9|7|4|7|9
+casilas|defender|1|8|1|8|6
+carlos|defender|3|8|4|8|6
+roberto|defender|8|6|1|6|4
+lagos|defender|6|6|4|6|4
+lee|striker|4|4|1|4|2
+priest|striker|11|4|4|4|1
+kai|striker|21|2|1|2|0
+greene|striker|99|2|4|2|0

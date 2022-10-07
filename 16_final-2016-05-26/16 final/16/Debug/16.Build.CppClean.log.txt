@@ -1,0 +1,17 @@
+c:\users\πανος\desktop\project2016c++\16\16\debug\vc120.pdb
+c:\users\πανος\desktop\project2016c++\16\16\debug\vc120.idb
+c:\users\πανος\desktop\project2016c++\16\16\debug\ball.obj
+c:\users\πανος\desktop\project2016c++\16\16\debug\defender.obj
+c:\users\πανος\desktop\project2016c++\16\16\debug\game.obj
+c:\users\πανος\desktop\project2016c++\16\16\debug\main.obj
+c:\users\πανος\desktop\project2016c++\16\16\debug\player.obj
+c:\users\πανος\desktop\project2016c++\16\16\debug\random.obj
+c:\users\πανος\desktop\project2016c++\16\16\debug\striker.obj
+c:\users\πανος\desktop\project2016c++\16\16\debug\team.obj
+c:\users\πανος\desktop\project2016c++\16\debug\16.exe
+c:\users\πανος\desktop\project2016c++\16\16\debug\16.tlog\cl.command.1.tlog
+c:\users\πανος\desktop\project2016c++\16\16\debug\16.tlog\cl.read.1.tlog
+c:\users\πανος\desktop\project2016c++\16\16\debug\16.tlog\cl.write.1.tlog
+c:\users\πανος\desktop\project2016c++\16\16\debug\16.tlog\link.command.1.tlog
+c:\users\πανος\desktop\project2016c++\16\16\debug\16.tlog\link.read.1.tlog
+c:\users\πανος\desktop\project2016c++\16\16\debug\16.tlog\link.write.1.tlog
